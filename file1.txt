@@ -1,3 +1,5 @@
 featureA line 1
 featureA line 2
 featureA line 3
+featureB line 4
+featureB line 5
