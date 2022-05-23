@@ -3,3 +3,4 @@ featureA line 2
 featureA line 3
 featureB line 4
 featureB line 5
+remote changes line 6
